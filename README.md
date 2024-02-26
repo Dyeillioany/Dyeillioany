@@ -3,7 +3,6 @@
 🌱 Atualmente, estou explorando as maravilhas de:
    - Python 🐍
    - Java ☕
-   - HTML & CSS 🌐
     
 🎓 Estudante de Análise e Desenvolvimento de Sistemas 📚
 
